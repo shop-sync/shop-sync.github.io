@@ -12,7 +12,7 @@
 .u-section-1 .u-image-1 {
   min-height: 552px;
   pointer-events: auto;
-  background-image: url("images/ddfdf-min.jpg");
+  background-image: url("images/eyecatch.png");
   background-position: 50% 50%;
 }
 
@@ -32,7 +32,7 @@
 
 .u-section-1 .u-text-1 {
   font-style: normal;
-  font-size: 3.5625rem;
+  font-size: 3.3625rem;
   font-weight: 700;
   margin: 0;
 }
@@ -167,13 +167,12 @@
 
 .u-section-2 .u-text-1 {
   font-weight: 700;
-  font-size: 3rem;
+  font-size: 2.3rem;
   margin: 60px auto 0;
 }
 
 .u-section-2 .u-text-2 {
   font-size: 1.125rem;
-  font-style: italic;
   font-weight: 600;
   width: 774px;
   margin: 15px auto 0;
@@ -209,7 +208,7 @@
 }
 
 .u-section-2 .u-text-4 {
-  font-style: italic;
+  /* font-style: italic; */
   margin: 15px 0 0 138px;
 }
 
@@ -232,7 +231,7 @@
 }
 
 .u-section-2 .u-text-6 {
-  font-style: italic;
+  /**font-style: italic;*/
   margin: 15px 0 0 138px;
 }
 
@@ -255,7 +254,7 @@
 }
 
 .u-section-2 .u-text-8 {
-  font-style: italic;
+  /* font-style: italic;*/
   margin: 15px 0 0 138px;
 }
 
@@ -278,7 +277,7 @@
 }
 
 .u-section-2 .u-text-10 {
-  font-style: italic;
+  /**font-style: italic;*/
   margin: 15px 0 0 138px;
 }
 
@@ -302,7 +301,7 @@
 }
 
 .u-section-2 .u-text-12 {
-  font-style: italic;
+  /*font-style: italic;*/
   margin: 15px 0 0 138px;
 }
 
@@ -325,7 +324,7 @@
 }
 
 .u-section-2 .u-text-14 {
-  font-style: italic;
+  /*font-style: italic;*/
   margin: 15px 0 0 138px;
 }
 
@@ -1173,7 +1172,7 @@
 
 .u-section-5 .u-text-1 {
   font-size: 4.0625rem;
-  font-family: Montserrat, sans-serif;
+  font-family: "Noto Sans JP", sans-serif;
   margin: 0 auto;
 }
 
@@ -1203,7 +1202,7 @@
 
 .u-section-5 .u-text-3 {
   font-size: 4.0625rem;
-  font-family: Montserrat, sans-serif;
+  font-family: "Noto Sans JP", sans-serif;
   margin: 0 auto;
 }
 
@@ -1233,7 +1232,7 @@
 
 .u-section-5 .u-text-5 {
   font-size: 4.0625rem;
-  font-family: Montserrat, sans-serif;
+  font-family: "Noto Sans JP", sans-serif;
   margin: 0 auto;
 }
 
@@ -1263,7 +1262,7 @@
 
 .u-section-5 .u-text-7 {
   font-size: 4.0625rem;
-  font-family: Montserrat, sans-serif;
+  font-family: "Noto Sans JP", sans-serif;
   margin: 0 auto;
 }
 
@@ -2217,4 +2216,7 @@
   .u-section-8 .u-layout-cell-2 {
     min-height: 100px;
   }
+}
+#sec-dedf{
+  background-color: #0091ca;
 }
